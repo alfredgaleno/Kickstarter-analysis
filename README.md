@@ -1,12 +1,12 @@
 # An Analysis of Kickstarter Campaigns
 
-##Overview
+## Overview
 This analysis was performed to uncover trends in crowd funding for diferent entertainment productions. Our client Louise is trying to determine the best way to campaign to raise money for the play she is writing. By utilizing the data from Kickstarter we are able to gain a deeper understanding of what goals and timelines worked best for specific genres. Based on our analysis, we are able to confidently say that campaigns that launch in %%%% are the most succesful, and that those who had fundraising goals of &&&& are also more likely to succees when compared to the otehr campaigns on Kickstarter.
 
-##Analysis
+## Analysis
 In order to provide Louise the best information we looked at two specific relationships. 1) How well campaigns did based on launch date, and 2) how the fundraising goal of that campaign correleated to it's success. These two metrics helped give us actionable information that could inform Louise's decisions
 
-###Systematic Approach
+### Systematic Approach
 In order to see when the best launch date would be we utilize a pivot table to see if there were any trends correleating success and launch date. Based on the information collected it was evident that campaigns launched in May had the highest success rates. Figures 1 and 2 illustrate this trend.
 
 ![image](https://user-images.githubusercontent.com/91395269/144723790-e018ba7e-0e9e-4118-a4a9-b9b7842206e4.png)(Fig1)
@@ -18,7 +18,7 @@ When looking at success in relation to fundrasiing goals we had to create a tabl
 ![image](https://user-images.githubusercontent.com/91395269/144724417-7db3fe76-7b79-4ed2-8115-5d29fda1c092.png)
 
 
-###Challenges
+### Challenges
 There were no major challenges when completing this analysis. The most important part was to ensure that the data added value to the questions we were asking. By focusing on specific categories of campaigns we were able to derive more applicable information for Louise. In turn this information should help her when launching her play. 
 
 ## Conclusions
